@@ -10,3 +10,7 @@
 ### 3. Python Loops: [pythonLoops.py](/pythonLoops.py) ###
 * **Activity 1:** Write a Python program to get the Fibonacci series between 0 to 50. 
 * **Activity 2:** Write a Python program to create the multiplication table (from 1 to 10) of a number.
+
+### 4. Python Collections: [pythonCollections.py](/pythoCollections.py) ###
+* **Activity 1:** Write a Python program to sum values of a list. E.g. [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+* **Activity 2:** Write a Python program to calculate the average value of a list elements. E.g. [20, 30, 25, 35, -16, 60, -100]
