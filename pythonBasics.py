@@ -13,7 +13,7 @@ print(d)
 
 # Python Basics - Activity 2
 # Write a Python program to divide two numbers, using the input from the user, and print the result on the screen.
-# Declare two number variables from user input
+# Declare two integer variables from user input
 first_number = int(input("Input the first number: "))
 second_number = int(input("Input the second number: "))
 # Declare 'divide' variable as first number divided by the second number
