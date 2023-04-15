@@ -1,5 +1,5 @@
 # Codespace-Python
-### 1. Python Basics: [python_basics.py](/python_basics.py) ###
+### 1. Python Basics: [pythonBasics.py](/pythonBasics.py) ###
 * Activity 1: Write a Python program to print the result of the following operations.
 Test Data:
 a. -5 + 8 * 6 
