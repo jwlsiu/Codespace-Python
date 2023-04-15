@@ -20,6 +20,6 @@
 * **Activity 2:** Write a Python function to calculate the factorial of a number (a non-negative integer n ). The function accepts the number as an argument.
 * **Activity 3:** Write a Python function that takes a number as a parameter and check the number is prime or not. 
 
-### 5. Python Challenge: [pythonChallenge.py](/pythonChallenge.py) ###
+### 6. Python Challenge: [pythonChallenge.py](/pythonChallenge.py) ###
 * Create a Rock, Paper, and Scissors game in Python without using any external game libraries. 
 
