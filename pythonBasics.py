@@ -1,6 +1,6 @@
 # Python Basics - Activity 1
 # Write a Python program to print the result of the following operations.
-# Declare variables a, b, c, d
+# Declare operations as variables a, b, c, d
 a = -5 + 8 * 6
 b = (55 + 9) % 9
 c = 20 + -3 * 5 / 8
