@@ -16,7 +16,7 @@
 * **Activity 2:** Write a Python program to calculate the average value of a list elements.
 * **Activity 3:** Write a Python program to find the maximum and minimum value of a list.
 
--[] ### 5. Python Fuctions: [pythonFuctions.py](/pythonFunctions.py) ###
+-[ ] ### 5. Python Fuctions: [pythonFuctions.py](/pythonFunctions.py) ###
 * **Activity 1:** Write 2 Python functions to show the list content and find the max value in the list.
 * **Activity 2:** Write a Python function to calculate the factorial of a number (a non-negative integer n ). The function accepts the number as an argument.
 * **Activity 3:** Write a Python function that takes a number as a parameter and check the number is prime or not. 
