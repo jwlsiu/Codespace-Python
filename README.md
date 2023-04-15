@@ -12,11 +12,12 @@
 * **Activity 2:** Write a Python program to create the multiplication table (from 1 to 10) of a number.
 
 ### 4. Python Collections: [pythonCollections.py](/pythonCollections.py) ###
-* **Activity 1:** Write a Python program to sum values of a list. E.g. [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-* **Activity 2:** Write a Python program to calculate the average value of a list elements. E.g. [20, 30, 25, 35, -16, 60, -100]
+* **Activity 1:** Write a Python program to sum values of a list.
+* **Activity 2:** Write a Python program to calculate the average value of a list elements.
+* **Activity 3:** Write a Python program to find the maximum and minimum value of a list.
 
 ### 5. Python Fuctions: [pythonFuctions.py](/pythonFunctions.py) ###
-* **Activity 1:** Write 2 Python functions to show the list content and find the max value in the list. E.g. [10, 2, 3, 4, 7]
+* **Activity 1:** Write 2 Python functions to show the list content and find the max value in the list.
 * **Activity 2:** Write a Python function to calculate the factorial of a number (a non-negative integer n ). The function accepts the number as an argument.
 * **Activity 3:** Write a Python function that takes a number as a parameter and check the number is prime or not. 
 
