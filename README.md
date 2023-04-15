@@ -19,3 +19,7 @@
 * **Activity 1:** Write 2 Python functions to show the list content and find the max value in the list. E.g. [10, 2, 3, 4, 7]
 * **Activity 2:** Write a Python function to calculate the factorial of a number (a non-negative integer n ). The function accepts the number as an argument.
 * **Activity 3:** Write a Python function that takes a number as a parameter and check the number is prime or not. 
+
+### 5. Python Challenge: [pythonChallenge.py](/pythonChallenge.py) ###
+* Create a Rock, Paper, and Scissors game in Python without using any external game libraries. 
+
