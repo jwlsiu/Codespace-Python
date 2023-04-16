@@ -16,7 +16,6 @@ print(d)
 # Declare two integer variables from user input
 first_number = int(input("Input the first number: "))
 second_number = int(input("Input the second number: "))
-# Declare 'divide' variable as first number divided by the second number
+# Declare 'divide' variable as first number divided by the second number and print answer
 divide = int(first_number / second_number)
-# Print result of 'divide' variable
 print(f"The division of the first number and the second number is: {divide}")
