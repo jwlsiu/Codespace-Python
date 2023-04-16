@@ -1,6 +1,6 @@
 # Python Loops - Activity 1
 # Write a Python program to get the Fibonacci series between 0 to 50.
-# Define first two numbers in the Fibonacci sequence and print
+# Declare first two numbers in the Fibonacci sequence as 0 and 1, then print
 x, y = 0, 1
 print(x)
 print(y)
