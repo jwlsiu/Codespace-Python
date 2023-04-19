@@ -22,10 +22,12 @@ list_max_value()
 # Python Functions - Activity 2
 # Write a Python function to calculate the factorial of a number (a non-negative integer n ). The function accepts the number as an argument.
 def factorial(n):
-    if n < 0:
+    # Using isinstance() function, check if 'n' is an integer. If false, print "Number must be an integer"
+     if isinstance(n, int) == False:
+        print("Number must be an integer")
+    elif n < 0:
         print("Factorial is not defined for negative numbers")
-    elif n == 0:
-        print("The factorial of 0 is: 1")
+    # If 'n' is a non-negative integer, calculate the product of all integers from 1 to 'n'
     else:
         answer = 1
         for i in range(1, n+1):
